@@ -6,7 +6,7 @@ So, following my neuro_resources list I felt the need to collate together anothe
 
 I aim to update it frequently, but as with my other list (and lists in general) it is not intended to be comprehensive. Feel free to star/fork this repo or to suggest your own resources for me to add!
 
-You can access this list as a GitHub Page soon!
+You can access this list as a GitHub Page [here](https://sohaamir.github.io/neuropportunities).
 
 ## Existing lists of resources
 
