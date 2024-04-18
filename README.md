@@ -56,9 +56,17 @@ I am deciding to focus specifically on those with a major focus on cognitive and
 
 - [Orbitofrontal Cortex (OFC)](https://www.ofc2024.com/) Once every four years!
 
+## Mentorship
+### General
+- [OHBM Online International Mentoring Programme](https://www.ohbmtrainees.com/mentoring-programme)
+
+### Writing/editing
+- [New Mentored Journal Club (JNeurosci](https://www.jneurosci.org/content/43/41/6832)
+- [Nature Co-review Program](https://www.nature.com/articles/s41467-024-45269-0)
+
 ## Outreach/mentoring
 
-#### Mentoring
+#### Mentoring school.college students
 
 - [STEM Ambassadors](https://www.stem.org.uk/stem-ambassadors) A volunteering program where individuals offer to speak at local events including schools, colleges, higher education institutions, and youth group organisations to 'deliver requests from teachers and youth group leaders who want to link STEM subjects to the real world of work.'
 - [The Brilliant Club](https://thebrilliantclub.org/) 'The Brilliant Club works with schools and universities across the UK, mobilising the PhD community to support students who are less advantaged to access the most competitive universities and succeed when they get there.'
