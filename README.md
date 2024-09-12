@@ -12,6 +12,10 @@ You can access this list as a GitHub Page [here](https://sohaamir.github.io/neur
 
 Here are some useful current 'meta-lists' which already cover resources in the various sub-domains.
 
+#### General Opportunities
+
+- [Scholarships Corner](https://scholarshipscorner.website/) A website covering scholarships, bursaries, competitions, exchange programs, and a lot more. It covers a varied selection of topics, including Psychology/Cognitive Neuroscience.
+
 #### Conferences 
 
 - [Nature Reviews Neuroscience - Conferences](https://www.nature.com/nrn/conferences)
